@@ -1,0 +1,24 @@
+{
+  "name": "g0v-axe-js",
+  "version": "1.0.0",
+  "description": "g0v-axe-js",
+  "main": "main.js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimotsai/g0v-axe-js.git"
+  },
+  "author": "dimotsai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimotsai/g0v-axe-js/issues"
+  },
+  "homepage": "https://github.com/dimotsai/g0v-axe-js#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.58.0",
+    "sync-request": "^2.0.1"
+  }
+}
